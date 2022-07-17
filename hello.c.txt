@@ -1,6 +1,10 @@
 hello world
 
+<<<<<<< Updated upstream
 int add(int &, int&)
 {
   return c;
 }
+=======
+print('hello world!)
+>>>>>>> Stashed changes
